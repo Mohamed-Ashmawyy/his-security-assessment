@@ -70,3 +70,7 @@ Only publish this repository after confirming that the client has authorized pub
 - [`linkedin-post.md`](linkedin-post.md): suggested LinkedIn post.
 - [`cv-project-entry.md`](cv-project-entry.md): CV project descriptions.
 - [`.gitignore`](.gitignore): baseline exclusion rules for secrets and local files.
+---
+### *Made by B1g0x411*
+### *If you find this repository usefel star it and send to me your feedback on my linkedin*
+www.linkedin.com/in/mohamedashmawyy

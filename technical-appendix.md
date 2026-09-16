@@ -66,3 +66,7 @@ A remediation retest should use fresh accounts and newly issued sessions. The re
 ## Safety Boundary
 
 This appendix is a portfolio-safe description of testing technique. It is not an exploit guide, vulnerability disclosure, or authorization to test any system.
+---
+### *Made by B1g0x411*
+### *If you find this repository usefel star it and send to me your feedback on my linkedin*
+www.linkedin.com/in/mohamedashmawyy

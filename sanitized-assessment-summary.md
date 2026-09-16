@@ -47,3 +47,7 @@ The engagement involved web and API penetration testing, manual request replay, 
 ## Disclosure Note
 
 This document is a portfolio-safe abstraction of a confidential engagement. It is not a vulnerability disclosure, does not identify the assessed organization, and must not be used to test any real system without explicit written authorization.
+---
+### *Made by B1g0x411*
+### *If you find this repository usefel star it and send to me your feedback on my linkedin*
+www.linkedin.com/in/mohamedashmawyy
